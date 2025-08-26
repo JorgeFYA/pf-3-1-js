@@ -1,11 +1,11 @@
 export function addTwoNumbers(number1, number2){
-  //console.log(number1 + number2);
+  console.log(number1 + number2);
   
   return (number1 + number2);
 }
 
 function subtractTwoNumbers(number1, number2){
-  //console.log(number1 - number2);
+  console.log(number1 - number2);
   return (number1 - number2);
 }
 /* 
@@ -31,12 +31,12 @@ function customOperation(number1, number2, number3) {
 */
 
 function divideTwoNumbers(number1, number2){
-  //console.log(number1 / number2);
+  console.log(number1 / number2);
   return (number1 / number2);
 }
 
 function multTwoNumbers(number1, number2){
-  //console.log(number1 / number2);
+  console.log(number1 / number2);
   return (number1 * number2);
 }
 
